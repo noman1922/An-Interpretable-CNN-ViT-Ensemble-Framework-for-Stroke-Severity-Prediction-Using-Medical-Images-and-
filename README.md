@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
 
     Guest[Guest User]
@@ -43,3 +44,4 @@ flowchart LR
     Admin --> UC15
 
     SuperAdmin --> UC16
+```
